@@ -1,0 +1,29 @@
+{
+    "name": "Gpio-AlysaS_A",
+    "version": "1.0.0",
+    "description": "A \"Gpio\" program is a computer program that outputs \"Gpio\" (or some variant) on a display device",
+    "keywords": "planet, happiness, people",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Alysa Saufika Ananda 3C",
+        "email": "alysasaufika05@gmail.com",
+        "url": "https://www.instagram.com/alysa.saufika"
+      },
+      {
+        "name": "Alysa Saufika Ananda 3C",
+        "email": "alysasaufika05@gmail.com",
+        "url": "https://www.instagram.com/alysa.saufika",
+        "maintainer": true
+      }
+    ],
+    
+    "frameworks": "*",
+    "platforms": "*"
+  }
+
